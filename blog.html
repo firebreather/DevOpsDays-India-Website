@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Business Solutions</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" charset="utf-8" />	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="css/ie.css" type="text/css" charset="utf-8" />	
+	<![endif]-->
+</head>
+
+<body>
+	<div id="header">
+		<a href="index.html" id="logo"><img src="images/logo.jpg" alt="LOGO" /></a>
+		<div id="navigation">
+			<ul>
+				<li class="first"><a href="index.html">Home</a></li>
+				<li><a href="about.html">About us</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="solutions.html">Solutions</a></li>
+				<li><a href="support.html">Support</a></li>
+				<li class="selected"><a href="blog.html">Blog</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</div>
+		<div id="search">
+			<form action="" method="">
+				<input type="text" value="Search" class="txtfield" onblur="javascript:if(this.value==''){this.value=this.defaultValue;}" onfocus="javascript:if(this.value==this.defaultValue){this.value='';}" />
+				<input type="submit" value="" class="button" />
+			</form>
+		</div>
+	</div> <!-- /#header -->
+	<div id="contents">
+		<div class="background">
+			<div id="blogs">
+				<div class="sidebar">
+					<div class="posts">
+						<h3>Recent Posts</h3>
+						<ul>
+							<li><a href="blog.html">Aliquam varius pulvinar lorem ipsum dolor sit amet</a></li>
+							<li><a href="blog.html">Fusce purus urna, commodo ac tempus id </a></li>
+							<li><a href="blog.html">Praesent pharetra molestie massa ornare</a></li>
+							<li><a href="blog.html">Vestibulum tempus erat sit amet nam non erat neque</a></li>
+							<li><a href="blog.html">Sed quis diam ac neque mauris vulputate ut blandit </a></li>
+						</ul>
+					</div>
+					<div class="archives">
+						<h3>Archives</h3>
+						<ul>
+							<li><a href="">December</a></li>
+							<li><a href="">June</a></li>
+							<li><a href="">November</a></li>
+							<li><a href="">May</a></li>
+							<li><a href="">October</a></li>
+							<li><a href="">April</a></li>
+							<li><a href="">September</a></li>
+							<li><a href="">March</a></li>
+							<li><a href="">August</a></li>
+							<li><a href="">February</a></li>
+							<li><a href="">July</a></li>
+							<li><a href="">January</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="section">
+					<h3>This website template has been designed by <a href="http://www.freewebsitetemplates.com/">Free Website Templates</a> for you, for free.</h3>
+					<p>You can remove any link to our website from this website template, you're free to use this website template without linking back to us.</p>
+					<p>If you're having problems editing this website template, then don't hesitate to ask for help on the <a href="http://www.freewebsitetemplates.com/forum/">Forum</a>.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut turpis vitae purus cursus malesuada at sed lacus. Integer pretium luctus felis, a dictum dui malesuada in. Praesent nunc erat, mollis sed varius id, 
+						blandit ut nisi. Aliquam in ipsum purus, in dignissim turpis. Nullam a adipiscing felis. Etiam a egestas dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc eu neque vel 
+						velit fringilla placerat at eu nulla. Sed tempus metus a lectus tristique in malesuada dolor mollis. Praesent nisl leo, aliquet elementum ullamcorper ut, accumsan et justo. Curabitur porttitor, dolor dapibus sodales 
+						tristique, nisi dui interdum lorem, et bibendum nisi massa ac magna. Donec vitae velit nec metus faucibus aliquam. Donec at ligula sem, sit amet euismod turpis. In ac augue sed orci ultrices mollis ut ut felis. Quisque 
+						condimentum facilisis velit, vel sollicitudin ligula lobortis eget. Nulla ut metus nulla. Proin vulputate tristique feugiat. Nulla et dui est, a scelerisque turpis. Ut id augue velit. Morbi lobortis quam aliquam felis 
+						commodo hendrerit. Nulla sit amet velit iaculis sem tempor mattis id nec augue. Curabitur eleifend tempus quam, condimentum mollis massa rhoncus sed. Curabitur vel lacus mauris. Phasellus id ligula a felis scelerisque 
+						tempor. Mauris in odio ligula. Duis sit amet euismod neque. Aenean consectetur pulvinar enim nec lobortis. Donec eget enim purus. Curabitur ut erat turpis. Mauris sollicitudin porta elit, nec accumsan est vestibulum eget. 
+						Nam quis rutrum orci. Integer sit amet imperdiet orci. Vestibulum pretium consectetur lectus, in porta eros mattis at. Pellentesque in tortor nec metus blandit pellentesque.</p>
+					<p>Our website templates are created with inspiration, checked for quality and originality and meticulously sliced and coded. What&acute;s more, they&acute;re
+						absolutely free! You can do a lot with them. You can modify them. You can use them to design websites for clients, so long as you agree with
+						the <a href="http://www.freewebsitetemplates.com/about/termsofuse/">Terms of Use</a>. You can even remove all our links if you want to.</p>
+				</div>
+			</div>
+		</div>
+	</div> <!-- /#contents -->
+	<div id="footer">
+		<ul class="contacts">
+			<h3>Contact Us</h3>
+			<li><span>Email</span><p>: company@email.com</p></li>
+			<li><span>Address</span><p>: 189 Lorem Ipsum Pellentesque, Mauris Etiam ut velit odio Proin id nisi enim 0000</p></li>
+			<li><span>Phone</span><p>: 117-683-9187-000</p></li>
+		</ul>
+		<ul id="connect">
+			<h3>Get Updated</h3>
+			<li><a href="blog.html">Blog</a></li>
+			<li><a href="http://facebook.com/freewebsitetemplates" target="_blank">Facebook</a></li>
+			<li><a href="http://twitter.com/fwtemplates" target="_blank">Twitter</a></li>
+		</ul>
+		<div id="newsletter">
+			<p><b>Sign-up for Newsletter</b>
+				In sollicitudin vulputate metus, sed commodo diam elementum nec. Sed et risus sed magna convallis adipiscing.
+			</p>
+			<form action="" method="">
+				<input type="text" value="Name" class="txtfield" onblur="javascript:if(this.value==''){this.value=this.defaultValue;}" onfocus="javascript:if(this.value==this.defaultValue){this.value='';}" />
+				<input type="text" value="Enter Email Address" class="txtfield" onblur="javascript:if(this.value==''){this.value=this.defaultValue;}" onfocus="javascript:if(this.value==this.defaultValue){this.value='';}" />
+				<input type="submit" value="" class="button" />
+			</form>
+		</div>
+		<span class="footnote">&copy; Copyright &copy; 2011. All rights reserved</span>
+	</div> <!-- /#footer -->
+</body>
+</html>
