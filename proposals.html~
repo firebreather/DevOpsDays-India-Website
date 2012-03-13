@@ -14,9 +14,9 @@
 		<a href="index.html" id="logo"><img src="images/logo.jpg" alt="LOGO" /></a>
 		<div id="navigation">
 			<ul>
-				<li><a href="index.html">Home</a></li>
+				<li class="first selected"><a href="index.html">Home</a></li>
 				<li><a href="index.html">Program</a></li>
-				<li class="first selected"><a href="proposals.html">Proposals</a></li>
+				<li><a href="proposals.html">Proposals</a></li>
 				<li><a href="index.html">Registrations</a></li>
 				<li><a href="index.html">Sponsorships</a></li>
 			</ul>
