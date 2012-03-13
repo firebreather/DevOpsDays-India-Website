@@ -16,7 +16,7 @@
 			<ul>
 				<li class="first selected"><a href="index.html">Home</a></li>
 				<li><a href="index.html">Program</a></li>
-				<li><a href="index.html">Proposals</a></li>
+				<li><a href="proposals.html">Proposals</a></li>
 				<li><a href="index.html">Registrations</a></li>
 				<li><a href="index.html">Sponsorships</a></li>
 			</ul>
@@ -34,7 +34,7 @@
 			<div class="images">
 				<img src="images/delhi_india.jpg" alt="Img" class="preview" />
 				<img src="images/shake-hands.jpg" alt="Img" height="144" width="230px" />
-				<img src="images/professionals.jpg" alt="Img" height="135" width="230px" class="last" />
+				<img src="images/devopsdayslogo.jpg" alt="Img" height="144" width="230px" class="last" />
 			</div>
 			<div class="details">
 				<p>
@@ -58,7 +58,7 @@
 				<li>
 					<a href="index.html"><img src="images/flags2.jpg" alt="Img" /></a>
 					<p>
-						<a href="index.html">Call for Proposals opens on 15th March 2012.</a><br/>
+						<a href="proposals.html">Call for Proposals opens on 15th March 2012.</a><br/>
 						Submit as many proposals for talks, short talks, lightning talks as you desire.
 					</p>
 				</li>
