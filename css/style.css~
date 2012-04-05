@@ -1,9 +1,8 @@
-/* Website template by freewebsitetemplates.com */
 html {
 	font-family: Arial, Helvetica, sans-serif;
 }
 body {
-	background-color: #0c2635; 
+	background-color: #9b1111; /*#0c2635;*/ 
 	margin: 0;
 }
 img {
@@ -14,14 +13,14 @@ img {
 #header {
 	width: 960px;
 	margin: 0 auto;
-	padding: 40px 0;
+	padding: 20px 0;
 	position: relative;
 }
 
 /** Logo **/
 #logo {
 	display: block;
-	padding: 0 0 35px 20px;
+	padding: 0 0 15px 0px;
 }
 
 /** Navigation **/
@@ -110,7 +109,7 @@ img {
 #adbox {
 	background-color: #ffffff;
 	height: 340px;
-	padding: 20px 0 0;
+	padding: 25px 0 0;
 }
 #adbox p {
 	margin: 0;
@@ -122,6 +121,7 @@ img {
 #adbox div.images {
 	float: right;
 	display: inline-block;
+	
 	height: 281px;
 	width: 710px;
 	overflow: hidden;
@@ -226,10 +226,10 @@ img {
 
 /** MAIN **/
 #main {
-	background-color: #03354e;
-	width: 630px;
-	margin: 60px 10px 0 300px;
-	padding: 20px 0 20px 20px;
+	background-color: #9b1111; /*#03354e;*/
+	width: 950px;
+	margin: 55px 0px 0 0px;
+	padding: 10px 0 10px 10px;
 }
 #main span, #main p {
 	color: #aeb4b4;
@@ -494,7 +494,7 @@ img {
 
 /*------------------------------ FOOTER ------------------------------*/
 #footer {
-	color: #456f7f;
+	color: #9b1111; /*#456f7f;*/
 	line-height: 20px;
 	width: 940px;
 	margin: 0 auto;
